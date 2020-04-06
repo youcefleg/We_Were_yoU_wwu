@@ -1,0 +1,70 @@
+body{
+	background-image: url("kwkb.gif");/*url("info.jpg");*/
+}
+li{
+	background-image: url("tar.jpg");
+	box-shadow: 2px 0.5px 2px 2px black;
+	padding-left: 7%;
+	padding-bottom: 4%;
+	height:50px;
+	width:200px;
+	border-radius: 10px;
+	color:white;
+	font-family: "Bad Script",cursive;
+	list-style-type: none;
+}
+h2{
+	box-shadow: 2px 4px 4px 2px black;
+	border-radius: 10px;
+	width:200px;
+	margin-left: 15.5%;
+	background-color: skyblue;
+	font-family: sans-serif ;
+	font-style: italic;
+	font-family: "Indie Flower",cursive;
+}
+a{
+	color:white;
+	font-family:"Covered By Your Grace";
+}
+
+ul{
+	display: none;
+}
+
+a:hover{
+	background-color: chartreuse;
+	border-radius: 10px;
+}
+
+#st{
+	float: left;
+	margin-left: 15%;
+	text-align: center;	
+	border-radius: 10px;
+	background-color: black;
+	width:300px;
+	padding-bottom: 2px;
+	border-style: solid;
+	box-shadow: 5px 0px 10px 0px beige;
+	
+}
+#se{
+	background-color: yellow;}
+ul div {
+	display: none;
+}
+#nd2{
+	float:right;
+	margin-right: 30%;
+	text-align: center;
+	border-radius: 10px;
+	background-color: black;
+	width:300px;
+	padding-bottom: 2px;
+	border-style: solid;
+	box-shadow: 5px 0px 10px 0px beige;
+
+
+
+}

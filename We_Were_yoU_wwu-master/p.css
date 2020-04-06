@@ -1,0 +1,357 @@
+body{
+	background-image: url("kwkb.gif");
+	
+	color: white;
+	font-family: 'Bad Script',cursive;
+}
+
+ input{
+ 	padding-left:5%;
+ 	padding-bottom: 1.5%; 	
+
+ }
+
+#you{
+	color:yellow;
+    font-family: 'Rakkas', cursive;
+}
+#h2{
+
+color:white;
+	font-family: 'Indie Flower', cursive;
+
+
+}
+
+#l2{
+	background-image: url("L2BB.jpg");
+	height: 200px;
+	width:200px;
+	margin-right: 50px;
+
+}
+
+	/*font-family: 'Covered By Your Grace', cursive;*/
+	
+
+#l3{
+	background-image: url("L3.jpg");
+	height: 200px;
+	width:200px;
+	margin-right: 50px;
+
+}
+
+.cours{
+	background-color:lightseagreen;
+	color: black;
+	display: none;
+}
+.td{
+	background-color: gold;
+	margin-top: -10%;
+	color: black;
+	display: none;
+
+}
+.books{
+	display:none;
+}
+
+.td1{
+	background-color: gold;
+	color: black;
+	margin-top: -5%;
+}
+.tp{
+	background-color: chartreuse;
+	float: left;
+	margin-top:-12%;
+	display: none;
+}
+
+#Return{
+	display: none;
+	padding: 1%;
+	background-image: url("a8.jpg");
+	box-shadow:5px 8px 16px 6px black;
+	height:50px;
+	width:200px;
+	font-family: 'Rock Salt', cursive;
+}
+.websites{
+	display: none;
+}
+#mod2{
+	cursor: pointer;
+}
+
+.module{
+	display:none;}
+	.module li{
+	background-color: black ;
+	box-shadow: 2px 0.5px 2px 2px white;
+	padding-left: 7%;
+	padding-bottom: 7%;
+	height:60px;
+	width:200px;
+	border-radius: 10px;
+	text-align: left;
+	color:azure;
+}
+
+.module a:hover{
+	background-color: aquamarine;
+	border-radius: 10px;
+}
+.first{
+	float: left;
+	margin: 10% auto;
+	text-align: center;	
+	border-radius: 10px;
+    background-image: url("tar.jpg");
+	width:300px;
+	padding-bottom: 2px;
+	border-style: solid;
+	box-shadow: 5px 0px 10px 0px black;
+
+}
+#wewere{
+	color:yellow;
+	font-family: 'Gloria Hallelujah',cursive;
+
+;
+}
+.second{
+
+	float:right;
+	margin: 10% auto;
+	text-align: center;
+	border-radius: 10px;
+	background-image: url("tar.jpg");
+	width:300px;
+	padding-bottom: 2px;
+	border-style: solid;
+	box-shadow: 5px 0px 10px 0px black;
+
+}
+
+
+/*{
+	font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Fascinate Inline', cursive;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Delius Unicase', cursive;
+font-family: 'Coming Soon', cursive;
+font-family: 'Covered By Your Grace', cursive;
+font-family: 'Chewy', cursive;
+Large font-family: 'Rock Salt', cursive;
+font-family: 'Bad Script', cursive;
+//font-family: 'Aref Ruqaa', serif;
+font-family: 'Nothing You Could Do', cursive;
+font-family: 'Syncopate', sans-serif;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Rakkas', cursive;
+}*/
+.ex{
+	display: none;
+	color:black;
+	background-color:firebrick;
+
+}
+#bref{
+	width:50%;
+	height: 40%;
+	font-size: 20px;
+	font-family: 'Chewy', cursive;
+	border-radius: 5px 5px 5px 5px;
+	margin-left: 20%;
+	margin-top: 5.5%;
+	border-radius: 10px;
+	/*box-shadow: 4px 5px 2px 0.5px black;*/
+	background-image: url("yedd2.jpg");
+	background-size: 200px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 45px;
+	color:black;
+	
+
+}
+#w{
+	color:black;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-style:italic,bold;
+}
+
+#s{
+	font-family: 'Indie Flower', cursive;
+	font-style: italic;
+	color: black;
+	box-shadow: 0px 8px 16px 0px turquoise;
+	padding-bottom: 3px;
+
+}
+#side{
+	float:right;
+	height: 900%;
+	width:20%;
+	background-color: azure;
+	color:black;
+	margin-top: -31.5%;
+	padding-left: 1.5%;
+	position: relative;
+	display: none;
+	border-style: solid;
+	border-color:yellow;
+
+}
+#spec{
+	background-color: yellow;
+	color:black;
+	margin-top:-36.5%;
+	width:20%;
+	float:right;
+	padding-left: 2%;
+	text-align: center;
+	padding-bottom: 2%;
+	display: none;
+}
+.dropbtn {
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    height: 200px;
+	width:200px;
+	background-image: url("l111.jpg");
+	
+
+}
+.dropbtn2{
+	background-image: url("L2BB.jpg");
+	padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    height: 200px;
+	width:200px;
+	
+
+}
+.dropbtn3{
+	background-image: url("L3.jpg");
+	padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    height: 200px;
+	width:200px;
+	
+
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    margin-left: 10%;   
+}
+
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width:200px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+.dropdown:hover {
+	margin-left: 10%;
+}
+.glob:hover .dropinfo{
+	display: block;
+}
+.dropinfo a:hover{background-color: #f1f1f1;
+}
+.dropinfo a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropinfo{
+	display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width:200px;
+}
+@media screen and (max-width: 500px) {
+	h1{
+		font-size: 100%;
+	}
+	h2{
+		font-size: 95%;
+	}
+	#bref{
+		font-size: 15px;
+		width:70%;
+	}
+	#w{
+		font-size: 15px;
+	}
+	.dropbtn {
+      width:110px;
+      height:110px;
+      background-image: url("1l.jpg") ;
+	}
+	.dropbtn2{
+		width:110px;
+      height:110px;
+      background-image: url("2l.jpg") ;
+
+	}
+	.dropbtn3{
+		width:110px;
+      height:110px;
+      background-image: url("3l.jpg") ;
+	 }
+	 .dropdown-content a {
+     color: black;
+     text-decoration: none;
+     display: block;
+     width:40%;
+                         }
+    
+
+
+	 

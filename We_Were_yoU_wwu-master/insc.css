@@ -1,0 +1,63 @@
+
+body{
+	background-image: url("imagess.jpg");
+	font-family: cursive;
+	}
+
+	form{
+	    background-color: pink;
+	    border-top-left-radius:  10%;
+ 		border-top-right-radius: 10%;
+ 		border-bottom-left-radius:  10%;
+ 		border-bottom-right-radius: 10%;
+ 		margin-left: auto;
+ 		margin-right: auto;
+        width: 50%;
+ 		height:  500px;
+ 		border-style: solid;
+ 		border-color: black;
+        box-shadow: 4px 0px 4px 4px black;
+        padding-bottom: 5%;
+        margin-top: -5%;
+}
+input{
+	background-color:#f1f1f1;
+}
+h2{
+	font-size: 100%;
+}
+
+#btn{
+	float: right;
+	box-shadow: 4px 0px 4px 4px black;
+	border-radius: 4px ;
+}
+
+#this{
+	width:50%;
+	height: 40%;
+	box-shadow: 4px 0px 4px 4px black;
+    padding-bottom: 0.5%;
+    border-radius: 4px ;
+    padding-left: 2%;
+    background-color: #f1f1f1;
+}
+#whole{
+	height :550px;
+	width: 70%;
+	background-image: url("black.jpg");
+	margin-left: 15%;
+	padding-top: 5%;	
+}
+
+label{
+	color: white;
+	margin-right:10%;
+	padding-left: 10%;
+}
+#sub{
+	box-shadow: 4px 0px 4px 4px black;
+	border-style: solid;
+	border-radius: 4px ;
+	margin-top: 10%;
+}

@@ -1,0 +1,48 @@
+body{
+	background-image: url("math2.png");
+
+}
+li{
+	display: inline;
+	background-color: white;
+	font-size: 20px;
+	margin-left: 20%;
+	box-shadow: 4px 0px 4px 4px black; 
+	padding-left: 1.2%;
+	padding-right: 0.9%;
+	text-align: center;
+	list-style-type: none;
+}
+#cm2 li{
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+#ex{
+	width: 280px;
+	height: 400px;	
+	margin-left: 65%;
+
+}
+#ex li{
+	background-color: white;
+	font-size: 20px;
+	margin-left: 10%;
+	box-shadow: 4px 0px 4px 4px black; 
+	padding-left: 3%;
+	padding-right: 3%;
+	text-align: center;
+	padding-bottom: 3%;
+	padding-top: 3%;
+	display: list-item;
+
+}
+#ex{
+	display: none;
+}
+#cm2{
+	display: none;
+	width: 500px;
+	height: 400px;	
+}

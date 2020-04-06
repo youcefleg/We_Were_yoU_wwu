@@ -1,0 +1,82 @@
+body{
+	background-image: url("kwkb.gif");
+
+}
+h1{
+	background-image: url("tar.jpg");
+	box-shadow: 5px 0px 10px 0px black;
+	border-radius: 4px;
+	font-family: 'Indie Flower', cursive;
+	margin-top: -10px;
+	color: white;
+
+}
+h2{
+	color: white;
+	font-family: "Bad Script",cursive;
+	margin-left:17%;
+}
+li{	
+	padding:0.5%;
+	height:180px;
+	width:200px;
+	padding-right:15px;
+	border-radius: 25px;
+	text-align: center;
+	margin-top: -5px;
+	margin-left: 105px;
+	margin-bottom:10px;
+	background-image: url("tar.jpg");
+    color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);  
+    list-style-type: none;
+     
+}
+#exam{
+	margin-top: -75%;
+	margin-left:42%;
+}
+#exam li,#cm2 li{
+	height:100px;
+}
+#cm2{
+	margin-left:20%;
+}
+a{
+	background-color:#f1f1f1;
+	padding-left: 5px;
+	padding-right: 7px;
+	box-shadow: 5px 0px 10px 0px black;
+	border-radius: 4px;
+	margin-left: 10px;	
+	margin-bottom: 20%;
+	font-family: 'Indie Flower', cursive;
+}
+
+#s1{
+	/*s1 en meme temps h4*/
+	background-color: skyblue;
+	width:300px;
+	margin-left:8%;
+	border-radius: 4px;
+	text-align: center;
+	font-family: 'Bad Script', cursive;
+
+}
+
+#s2{
+	/*s2 en meme temps h4*/
+    background-color: skyblue;
+	width:300px;
+	margin-left: 20%;
+	border-radius: 4px;
+	text-align: center;
+	font-family: 'Bad Script', cursive;
+}
+#td{
+margin-left: 3%;
+}
+#td2{
+margin-top: -34.5%;
+margin-left: 59%;
+}

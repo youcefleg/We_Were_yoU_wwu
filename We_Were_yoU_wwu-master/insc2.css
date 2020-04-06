@@ -1,0 +1,151 @@
+
+
+body
+{
+ /*background-image: url("bbl.jpg");*/
+font-size: 24px;
+cursor: auto;
+font-family: Georgia ;
+background-image:url("kwkb.gif"); 
+color: black;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-right: 50px;
+margin-left: 50px;
+}
+
+
+h2{
+  color: white;
+  position: center;
+  font-family: verdana;
+  font-size: 22px;
+  text-transform: none;
+  font-family:"Gloria Hallelujah";
+}
+h1{
+text-align: center;
+color: white;
+border-radius: 5px ;
+border-style:solid;
+border-image: url("tar.jpg");
+box-shadow:  0px 6px 0px ;
+font-family: 'Bad Script', cursive;
+text-decoration: none;
+text-transform: uppercase;
+margin-left: 20px;
+margin-right: 20px;
+margin-top: 5px;
+font-size: 40px;
+
+
+}
+
+form {
+  
+  background-image: url("tar.jpg");
+  border: 8px solid white;
+  border-radius: 80px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  overflow: hidden;
+  width: 500px;
+  margin-left: 360px;
+  height:700px;
+}
+
+input,select{
+  
+  width:200px;
+  height: 22px;
+}
+
+.btn{
+  height:30px;
+}
+.btn2{
+  height:30px;
+}
+
+
+textarea{ width:400px;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.account-action {
+
+ /* background: silver;
+  border-top: 1px solid #c6c7cc;*/
+  padding: 12px;
+  border-radius: 80px;
+  margin-top: 15%
+}
+.account-info {
+  padding: 20px 20px 0 20px;
+}
+.account-info label {
+  color:silver;
+  display: block;
+  font-weight: bold;
+  margin-bottom:10px;
+
+}
+
+.account-action .btn {
+  background: linear-gradient(silver, red);
+ 
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  float: left;
+  padding: 8px 10px;
+}
+.btn{
+
+}
+
+.account-action label {
+  color: black;
+  font-size: 12px;
+  float: left;
+  margin: 0px 0 0 0px;
+  font-size: verdana;
+}
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+footer{
+  margin-bottom: 10px;
+  font-family: verdana;
+  font-size: 12px;
+  color: black;
+}
+@media screen and (max-width: 780px){
+  li{
+    margin : 2% auto;
+    font-size: 70%;
+    width:80%;
+    height:80%;
+    font-family: 'Indie Flower', cursive;
+    font-style: italic;
+    text-align: center;
+  }
+  h1{
+    font-size: 100%;
+    width: 70%;
+    margin: auto;
+  }
+  h2{
+    font-size: 95%;
+  }
+  body {
+  background: linear-gradient(black, black);
+}
+input{
+  width:70px;
+  height:15px;
+
+ }
+}

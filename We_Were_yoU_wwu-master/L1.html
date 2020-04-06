@@ -1,0 +1,68 @@
+<!Doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta lang="eng">
+    <link rel="stylesheet" type="text/css" href="Tdl2.css">
+     <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Architects+Daughter|Aref+Ruqaa|Bad+Script|Cabin+Sketch|Chewy|Coming+Soon|Covered+By+Your+Grace|Delius+Unicase|Fascinate+Inline|Gloria+Hallelujah|Nothing+You+Could+Do|Poiret+One|Rakkas|Rock+Salt|Syncopate" 
+    rel="stylesheet">
+	<title>
+		Math  informatique 
+	</title>
+</head>
+<body>
+  <header>
+
+    
+      <center> <h1> Math InformatiQue </h1> </center> 
+             
+ </header>
+
+ <div id="cm2"> 
+ <h2>COURS</h2>
+      <li>Programmation Orientée Objet poo
+        <a href="cours1-IPOO.pdf" >Cours1</a>
+        <a href="cours2-IPOO.pdf" >Cours2</a>
+        <a href="cours3.pdf" >Cours3</a>
+        <a href="cours3-révision.pdf" >Révision</a>
+      </li>
+      <li>PSD Programmation Structure de données</li>
+      <li>Analyse2 </li>
+      <li>Algébre2 </li>
+      <li>Structure Machine SM</li>
+      <li>Tic Téchnique d'Information et de Communication</li>
+      <li>Statistique et Probabilités</li>
+      <li>Electricité</li>
+</div>
+
+ <div id="exam"> 
+ <h2>EXAMS</h2>
+ <li> <a href="analyser.jpg"> Rattrapage Analyse2 </a>  <br> 
+      <a href="analysex.jpg" >Examen d'Analyse</a> 
+ </li>
+ <li> <a href="algex.jpg">Examen d'Algebre</a> <br>
+      <a href="alger.jpg"> Rattrapage</a> </li> 
+
+
+ </div>
+
+
+<script src="jquery-3.2.0.js"></script>
+<script>
+	$(document).ready(function(){
+				$("#c").mouseenter(function(){
+				$("#cm2").toggle();//slideToggle("slow");
+				$("#cm2 li").css("display","list-item");
+						});
+
+        $("#e").mouseenter(function(){
+        $("#ex").toggle();//slideToggle("slow");
+        $("#ex li").css("display","list-item");
+            });
+				
+
+
+			});
+</script>
+</body>
+</html>
